@@ -1,0 +1,12 @@
+ .row{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     width: 100%;
+     justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
